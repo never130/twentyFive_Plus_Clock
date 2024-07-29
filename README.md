@@ -1,4 +1,4 @@
-####  Esta aplicacion hecha con los frameworks que se nombra a continuacion sirve para ejecutar una alarma de 25 segundos. Para poder usarlos click [aqui]()
+####  Esta aplicacion hecha con los frameworks que se nombra a continuacion sirve para ejecutar una alarma de 25 segundos. Para poder usarlos click [aqui](https://never130.github.io/twentyFive_Plus_Clock/)
 
 
 # React + TypeScript + Vite
